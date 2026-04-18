@@ -2,15 +2,15 @@
 
 ## 👋 About Me
 
-Saya adalah QA Engineer yang memiliki fokus pada pengujian perangkat lunak untuk memastikan kualitas sistem sebelum digunakan oleh user.
+Saya adalah QA Engineer yang memiliki fokus dalam memastikan kualitas aplikasi melalui proses testing yang terstruktur dan sistematis.
 
-Saya memiliki pengalaman dalam melakukan:
+Saya memiliki pengalaman dalam:
 - Manual Testing
 - Regression Testing
 - API Testing
 - Bug Reporting & Documentation
 
-Saya terbiasa menganalisis sistem, membuat test scenario, serta membandingkan expected dan actual result untuk menemukan bug secara efektif.
+Saya terbiasa menganalisis sistem, membuat test scenario, serta melakukan validasi antara expected dan actual result untuk menemukan bug secara efektif.
 
 Saat ini saya juga sedang mengembangkan skill ke arah:
 - Automation Testing (Playwright / Cypress)
@@ -21,9 +21,30 @@ Saat ini saya juga sedang mengembangkan skill ke arah:
 
 ## 💼 Experience
 
+### 📱 Mobile App Testing
+
+Saya melakukan pengujian pada beberapa aplikasi mobile, di antaranya:
+
+#### 🔹 Tylo Lite
+- Melakukan pengujian fitur utama aplikasi
+- Validasi login dan navigasi
+- Mengidentifikasi bug pada UI dan user flow
+
+#### 🔹 LeBaN
+- Melakukan pengujian fitur berbasis lokasi
+- Validasi performa dan stabilitas aplikasi
+- Pengujian berbagai skenario penggunaan user
+
+#### 🔹 JPT Messenger
+- Testing fitur messaging (kirim & terima pesan)
+- Validasi notifikasi
+- Pengujian koneksi dan stabilitas aplikasi
+
+---
+
 ### 📌 Regression Testing - LMS System
 
-Saya melakukan pengujian pada sistem Learning Management System (LMS) dengan cakupan:
+Saya melakukan regression testing pada sistem Learning Management System (LMS) dengan cakupan:
 
 #### 🔍 Scope Testing:
 - Authentication (Login & Logout)
@@ -46,9 +67,9 @@ Saya melakukan pengujian pada sistem Learning Management System (LMS) dengan cak
 | Tools | Kegunaan |
 |------|---------|
 | Postman | API Testing |
-| Chrome DevTools | Debugging & Inspect |
-| Visual Studio Code | Menulis dokumentasi & test |
-| GitHub | Version control & portfolio |
+| Chrome DevTools | Debugging |
+| Visual Studio Code | Penulisan test & dokumentasi |
+| Git & GitHub | Version control & portfolio |
 | Google Sheets / Excel | Test case management |
 
 ---
@@ -71,16 +92,31 @@ Saya melakukan pengujian pada sistem Learning Management System (LMS) dengan cak
 - Expected vs Actual Validation
 
 ### 🔹 Additional Skills
-- Basic SQL (jika ada)
-- Basic API structure (JSON, HTTP method)
+- Basic SQL (optional)
+- API structure (JSON, HTTP Method)
 
 ---
 
 ## 📂 Portfolio
 
+### 📱 Mobile App Testing
+
+Pengujian dilakukan pada beberapa aplikasi:
+
+- Tylo Lite
+- LeBaN
+- JPT Messenger
+
+Jenis testing:
+- Functional Testing
+- UI Testing
+- Basic Performance Testing
+
+---
+
 ### 🔐 Regression Testing - LMS
 
-📁 Lokasi:
+📁 File:
 `test-case/regression-test-lms.xlsx`
 
 #### 📊 Summary:
@@ -108,7 +144,7 @@ Saya melakukan pengujian pada sistem Learning Management System (LMS) dengan cak
 3. Coba login
 
 **Expected Result:**
-User dapat login dan masuk ke dashboard
+User berhasil login dan masuk ke halaman dashboard
 
 **Actual Result:**
 Sistem menampilkan error "koneksi tidak terdeteksi"
@@ -120,14 +156,14 @@ Sistem menampilkan error "koneksi tidak terdeteksi"
 
 ## 📈 Testing Approach
 
-Saya menggunakan pendekatan berikut dalam testing:
+Pendekatan yang saya gunakan dalam testing:
 
 1. Memahami flow sistem
 2. Menentukan test scenario utama
-3. Membuat test case detail
-4. Menjalankan pengujian
-5. Mencatat hasil (actual vs expected)
-6. Melaporkan bug
+3. Menyusun test case secara detail
+4. Melakukan eksekusi testing
+5. Mencatat hasil pengujian
+6. Melaporkan bug yang ditemukan
 
 ---
 
