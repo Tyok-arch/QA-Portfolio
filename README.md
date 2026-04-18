@@ -141,5 +141,5 @@ Saya juga berkomitmen untuk terus belajar dan berkembang menjadi QA Automation E
 
 ## 📫 Contact
 
-- Email: (neck.sulis@gmail.com)
-- LinkedIn: (optional)
+- Email: neck.sulis@gmail.com
+- LinkedIn: www.linkedin.com/in/sulistyono-tio-b87866311
