@@ -1,4 +1,4 @@
-# 🧪 QA Portfolio - SULISTIYONO
+# QA Portfolio - SULISTIYONO
 
 ## 👋 About Me
 
