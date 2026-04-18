@@ -69,7 +69,7 @@ Saya melakukan regression testing pada sistem Learning Management System (LMS) d
 | Postman | API Testing |
 | Chrome DevTools | Debugging |
 | Visual Studio Code | Penulisan test & dokumentasi |
-| Git & GitHub | Version control & portfolio |
+| Git & GitHub | Version control |
 | Google Sheets / Excel | Test case management |
 
 ---
