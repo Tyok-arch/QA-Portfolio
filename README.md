@@ -131,7 +131,8 @@ Jenis testing:
 
 ## 📸 Screenshot Testing
 
-![Screenshot](Dokumentasi.png)
+<img width="2876" height="1375" alt="Dokumentasi" src="https://github.com/user-attachments/assets/bc2908c0-6704-42a0-8206-c39168d22376" />
+
 
 ---
 
