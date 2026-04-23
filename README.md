@@ -114,24 +114,24 @@ Jenis testing:
 
 ---
 
-### 🔐 Regression Testing - LMS
+# 🔐 Regression Testing - LMS
 
-📁 File:
-`test-case/regression-test-lms.xlsx`
-### 📸 Screenshot Testing
+📁 File: test-case/regression-test-lms.xlsx
+
+## 📊 Summary
+- Total Test Case: 26  
+- Passed: 25  
+- Failed: 1  
+
+## 📌 Coverage
+- Login System  
+- Learning Module  
+- Navigation  
+- Assignment  
+
+## 📸 Screenshot Testing
 
 ![Screenshot](Dokumentasi.png)
-
-#### 📊 Summary:
-- Total Test Case: 26
-- Passed: 25
-- Failed: 1
-
-#### 📌 Coverage:
-- Login System
-- Learning Module
-- Navigation
-- Assignment
 
 ---
 
