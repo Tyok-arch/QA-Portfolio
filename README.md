@@ -120,8 +120,8 @@ Jenis testing:
 `test-case/regression-test-lms.xlsx`
 
 #### 📊 Summary:
-- Total Test Case: 13
-- Passed: 12
+- Total Test Case: 26
+- Passed: 25
 - Failed: 1
 
 #### 📌 Coverage:
