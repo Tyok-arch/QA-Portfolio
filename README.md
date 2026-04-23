@@ -118,11 +118,7 @@ Jenis testing:
 
 📁 File:
 `test-case/regression-test-lms.xlsx`
-<h3 align="center">📸 Screenshot Testing</h3>
 
-<p align="center">
-  <img src="Dokumentasi.png" width="800"/>
-</p>
 #### 📊 Summary:
 - Total Test Case: 26
 - Passed: 25
