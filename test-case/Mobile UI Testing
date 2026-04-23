@@ -1,0 +1,75 @@
+# 📱 Mobile UI Testing - Multiple Apps
+
+## 📖 Deskripsi Project
+Project ini adalah pengujian tampilan (UI) pada beberapa aplikasi mobile, yaitu Tylo Lite, LeBaN, dan JPT Messenger. Pengujian dilakukan untuk melihat apakah tampilan aplikasi sudah enak dilihat, mudah dipahami, dan tidak membingungkan pengguna.
+
+Fokus utama dari pengujian ini adalah bagian visual seperti icon, teks, warna, dan posisi elemen di layar. Selain itu juga dilihat apakah tampilan tetap rapi saat digunakan di perangkat mobile.
+
+---
+
+## 🎯 Tujuan Pengujian
+
+- Memastikan tampilan aplikasi terlihat rapi dan jelas
+- Mengecek apakah UI mudah dipahami oleh user
+- Menemukan masalah seperti posisi yang tidak rapi atau tampilan yang kurang konsisten
+
+---
+
+## 🧪 Jenis Testing
+
+- UI Testing  
+- Exploratory Testing  
+
+---
+
+## 📱 Aplikasi yang Diuji
+
+1. **Tylo Lite**  
+   Dilihat dari segi tampilan dan kerapian layout
+
+2. **LeBaN**  
+   Fokus pada tampilan saat digunakan di berbagai kondisi layar
+
+3. **JPT Messenger**  
+   Dilihat dari kemudahan penggunaan dan kejelasan tampilan
+
+---
+
+## 🔍 Cara Pengujian
+
+Pengujian dilakukan secara manual dengan cara mencoba langsung aplikasi seperti user biasa.
+
+Beberapa hal yang dicek:
+- Tampilan saat aplikasi dibuka
+- Kejelasan icon dan tulisan
+- Posisi elemen (rapi atau tidak)
+- Warna dan font (enak dilihat atau tidak)
+- Tampilan saat layar diubah (rotate)
+
+---
+
+## 📊 Hasil Pengujian
+
+Secara umum, tampilan dari ketiga aplikasi sudah cukup baik dan bisa digunakan dengan nyaman.
+
+Namun ada beberapa hal yang masih bisa diperbaiki, seperti:
+- Beberapa posisi elemen yang kurang rapi
+- Perbedaan tampilan antar halaman
+- Ada sedikit masalah saat layar di-rotate
+
+---
+
+## 🛠 Tools yang Digunakan
+
+- Device: Android  
+- Metode: Manual Testing  
+- Dokumentasi: Google Sheets  
+- Platform: GitHub  
+
+---
+
+## 🧠 Kesimpulan
+
+Dari pengujian ini bisa disimpulkan bahwa tampilan aplikasi sudah cukup baik, tapi masih ada beberapa bagian kecil yang bisa diperbaiki supaya lebih rapi dan konsisten.
+
+Pengujian ini juga membantu memahami pentingnya tampilan UI dalam pengalaman pengguna.
