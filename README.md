@@ -122,6 +122,12 @@ Jenis testing:
 
 ![Screenshot](Dokumentasi.png)
 
+
+
+
+
+
+
 #### 📊 Summary:
 - Total Test Case: 26
 - Passed: 25
