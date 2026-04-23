@@ -1,0 +1,71 @@
+# 📌 Regression Testing - LMS Dibimbing
+
+## 📖 Deskripsi Project
+Pengujian dilakukan pada sistem LMS (Learning Management System) Dibimbing untuk memastikan fitur utama berjalan dengan baik setelah perubahan sistem.
+
+Fitur yang diuji:
+- Authentication (Login & Logout)
+- Course Access
+- Learning Module
+- Assignment
+
+---
+
+## 🎯 Scope & Tujuan
+
+**Tujuan:**
+- Memastikan semua fitur utama berjalan normal
+- Mengidentifikasi apakah ada kegagalan pada sistem
+
+**Scope:**
+- Functional Testing
+- Regression Testing
+
+---
+
+## 🧪 Jenis Testing
+- Functional Testing
+- Regression Testing
+- Negative Testing
+
+---
+
+## 📋 Test Case
+
+| ID | Test Case | Precondition | Steps | Expected Result | Actual Result | Type | Priority | Status |
+|----|----------|-------------|------|----------------|--------------|------|----------|--------|
+| LG_001 | Login dengan email & password valid | User memiliki akun | Input email & password | User berhasil login | User berhasil login | Positive | High | PASS |
+| LG_002 | Login dengan password salah | User memiliki akun | Input password salah | Error muncul | Error muncul | Negative | High | PASS |
+| LG_003 | Login dengan email tidak terdaftar | User belum memiliki akun | Input email tidak terdaftar | Pesan account tidak ditemukan | Pesan muncul | Negative | High | PASS |
+| LG_004 | Login tanpa email | Halaman login terbuka | Kosongkan email | Sistem minta email diisi | Sistem minta email diisi | Negative | Medium | PASS |
+| LG_005 | Logout dari sistem | User sudah login | Klik logout | User keluar | User keluar | Positive | High | PASS |
+| CS_006 | Akses LMS dengan jaringan | User punya internet | Hubungkan ke wifi | LMS terbuka | Tidak bisa login | Positive | High | FAIL |
+| LM_001 | Membuka module | User login | Klik module | Module terbuka | Module terbuka | Positive | High | PASS |
+| LM_002 | Video pembelajaran | Module ada video | Play video | Video berjalan | Video berjalan | Positive | High | PASS |
+| LM_003 | Mencari materi | User di dashboard | Search materi | Materi muncul | Materi muncul | Positive | High | PASS |
+| LM_004 | Module tidak tersedia | Module tidak ada | Akses module | Error muncul | Error muncul | Negative | High | PASS |
+| LM_005 | Navigasi sistem | User di dashboard | Search project | Data muncul | Data muncul | Positive | High | PASS |
+| AM_001 | Membuka assignment | User login | Klik assignment | Assignment terbuka | Assignment terbuka | Positive | High | PASS |
+
+---
+
+## 📊 Summary Testing
+
+- Total Test Case: 26  
+- Passed: 25  
+- Failed: 1  
+
+**Kesimpulan:**
+Sebagian besar fitur berjalan dengan baik, namun masih terdapat 1 skenario yang gagal pada proses akses sistem.
+
+---
+
+## 🛠 Tools
+- Browser: Chrome  
+- Documentation: Google Sheets  
+- Platform: GitHub  
+
+---
+
+## 📎 Evidence
+- File test case Excel (`https://docs.google.com/spreadsheets/d/1dEYevr8EG0kIJl_uxzTyu-L3lAbVIlyV/edit?usp=sharing&ouid=100531938207366916504&rtpof=true&sd=true`)
